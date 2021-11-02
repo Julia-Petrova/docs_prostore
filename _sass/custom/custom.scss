@@ -245,9 +245,9 @@ h2 {
 		display: block;
 		position: absolute;
 		height: 2.6em;
-		right: 1em;
+		right: 0.6em;
 		bottom: 0;
-		left: 1em;
+		left: 0.6em;
 		font-weight: bold;
 		font-size: large;
 		text-align: center;
@@ -256,7 +256,7 @@ h2 {
 	}
 }
 
-  @media only screen and (max-width : 370px) {
+  @media only screen and (max-width : 399px) {
       /* Smartphone view: 1 tile */
       .nav-tile2 {
         width: 95%;
@@ -266,12 +266,12 @@ h2 {
       }
     }
 
-  @media only screen and (max-width : 600px) and (min-width : 371px) {
+  @media only screen and (max-width : 600px) and (min-width : 400px) {
       /* Smartphone and tablet view: 2 tiles */
       .nav-tile2 {
         width: 45%;
         p {
-            height: 2.3em;
+            height: 2.2em;
         }
       }
     }
