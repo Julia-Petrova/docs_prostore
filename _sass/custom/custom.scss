@@ -256,7 +256,17 @@ h2 {
 	}
 }
 
-  @media only screen and (max-width : 650px) {
+  @media only screen and (max-width : 370px) {
+      /* Smartphone view: 1 tile */
+      .nav-tile2 {
+        width: 95%;
+        p {
+            height: 2.3em;
+        }
+      }
+    }
+
+  @media only screen and (max-width : 600px) and (min-width : 371px) {
       /* Smartphone and tablet view: 2 tiles */
       .nav-tile2 {
         width: 45%;
