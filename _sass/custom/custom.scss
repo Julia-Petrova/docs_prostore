@@ -275,3 +275,13 @@ h2 {
         }
       }
     }
+
+    @media only screen and (max-width : 850px) and (min-width : 800px) {
+      /* Tablet view with the document tree : 2 tiles */
+      .nav-tile2 {
+        width: 45%;
+        p {
+            height: 2.2em;
+        }
+      }
+    }
