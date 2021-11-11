@@ -31,17 +31,17 @@ Prostore (далее — система) — система для постро�
     </div>
    </a>
    <a href="/docs_prostore/working_with_system/working_with_system.html">
-    <div class="nav-tile"><span class="nav-icon fas fa-exchange-alt"></span>
+    <div class="nav-tile"><span class="nav-icon fa-solid fa-gears"></span>
      <p>Работа с системой</p>
     </div>
    </a>
   <a href="/docs_prostore/reference/sql_plus_requests/sql_plus_requests.html">
-   <div class="nav-tile"><span class="nav-icon fas fa-long-arrow-alt-right"></span>
+   <div class="nav-tile"><span class="nav-icon fa-solid fa-database"></span>
     <p>Запросы SQL+</p>
    </div>
     </a>
   <a href="/docs_prostore/reference/supported_data_types/supported_data_types.html">
-   <div class="nav-tile"><span class="nav-icon fas fa-database"></span>
+   <div class="nav-tile"><span class="nav-icon fa-solid fa-box"></span>
     <p>Типы данных</p>
    </div>
  </a>
